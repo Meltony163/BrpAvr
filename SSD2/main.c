@@ -1,6 +1,6 @@
 #include"STD_TYPES.h"
 #include"ErrType.h"
-#include"math.h"
+#include"BIT_MATH.h"
 #include"DIO_interface.h"
 #include"PORT_interface.h"
 #include"SSD_interface.h"
